@@ -1,0 +1,12 @@
+<extension
+        name="Who owes Who"
+        thumbnailUrl="http://who-owes-who.com/img/icon.png"
+        description="Easily resolve who owes who for your shared costs.">
+    <author name="Phil Miller"/>
+    <menuHook
+            location="toolbar"
+            text="Add Who owes Who"
+            iconUrl="http://who-owes-who.com/img/icon.png">
+        <insertGadget url="http://who-owes-who.com/wave.xml"/>
+    </menuHook>
+</extension>

@@ -1,0 +1,237 @@
+body, div, input, option, a, b {
+    font-family: 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
+    font-weight: normal;
+    font-size: small;
+}
+
+b {
+    font-weight: bold;
+}
+
+
+input[type="submit"] {
+    margin-left: 5px;
+    background-color: #eee;
+}
+
+a, a:visited, a:hover {
+    color: blue;
+}
+
+#CostHelp {
+    color: #43609c;
+}
+
+#wow-whole {
+    font-size: 2em;
+    font-weight: bold;
+    color: #134C6D;
+    letter-spacing: -0.1em;
+    margin-right: 10px;
+    text-shadow: 3px 2px 4px #BDBDAD
+}
+
+.for {
+    margin-left: 10px;
+    margin-right: 40px;
+    color: green;
+}
+
+iou#container {
+    height: 15em;
+}
+
+.modRow {
+    background: #eee;
+}
+
+.FriendHover {
+    background: #ddd;
+}
+
+.pay {
+    padding-left: 30px;
+    font-style: italic;
+}
+
+.EventPanel {
+    margin-bottom: 15px;
+}
+
+#msg {
+    margin-bottom: 15px;
+    margin-left: 30px;
+    margin-right: 20px;
+    padding: 10px;
+}
+
+#createEvent {
+    font-size: 130%;
+    background: #CF9;
+    margin-right: 30px;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #AAA;
+    margin-left: 40%;
+}
+
+.eventName {
+    font-size: 130%;
+    font-weight: bold;
+    color: #134C6D;
+    text-shadow: 3px 2px 4px #BDBDAD;
+}
+
+.creator {
+    color: gray;
+    font-style: italic;
+    margin-left: 20px;
+    padding: 3px;
+    display: none;
+}
+
+.x {
+    display: none;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.close {
+    font-style: italic;
+    margin-left: 20px;
+}
+
+#newCost {
+    padding: 4px;
+    margin-bottom: 5px;
+}
+
+.red {
+    background-color: #FBB;
+}
+
+.blue {
+    background-color: #BBF;
+}
+
+.pad {
+    padding: 10px;
+}
+
+.green {
+    background-color: #CF9;
+}
+
+.iou {
+    margin-bottom: 15px;
+    padding: 10px;
+}
+
+.explain {
+    margin-left: 30px;
+}
+
+#explanation {
+    color: #333;
+    border: 1px solid #AAA;
+    padding: 10px;
+}
+
+.settlement {
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+
+.Participation {
+    padding: 15px;
+    margin-top: 10px;
+    border: 1px solid #AAA;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.ParticipationOff {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.removethis {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.CostsVerticalPanel {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.ParticipationViewPanel {
+    background-color: #AAF;
+    margin-left: 10px;
+    padding: 3px;
+}
+
+.ImageSmall {
+    height: 20px;
+    width: 20px;
+}
+
+#center {
+    background-color: #EFEFEF;
+    border: 2px solid #CCCCCC;
+    padding: 10px;
+}
+
+#dragMsg {
+    font-style: italic;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: gray;
+}
+
+#footer {
+    font-style: italic;
+    color: gray;
+}
+
+#left {
+    float: left;
+}
+
+#middle {
+    float: left;
+    padding-right: 15px;
+    display: none;
+
+}
+
+#users {
+    background-color: #ddd;
+    float: right;
+    padding: 10px;
+    border: 1px solid #AAA;
+
+}
+
+#eventUser {
+    padding: 5px;
+}
+
+#amount {
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+table {
+    width :100%;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+#aon {
+    font-size: 1em
+}
